@@ -1,3 +1,3 @@
 ## AML Projects
 
-Current project: **Minecraft PvP Agent**
+Current project: <kbd>Minecraft PvP Agent</kbd>
